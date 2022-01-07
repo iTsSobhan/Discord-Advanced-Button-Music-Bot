@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/E7q2e2rveY",
+      "domain": "https://op-music.amgop.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://op-music.amgop.repl.co/callback",
+        "clientID": "885965175365177364",
+        "secret": "ev0oq2T_lQahtikVo5xtCllfww3TNSs9"
+    }
+  }
